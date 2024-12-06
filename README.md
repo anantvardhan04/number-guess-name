@@ -1,6 +1,6 @@
 # number-guess-game
 
-**Project URL:** https://github.com/anantvardhan04/number-guess-name/tree/master
+**Project URL:** https://github.com/anantvardhan04/number-guess-name
 ## Run Instructions:
 
 python app.py
