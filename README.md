@@ -1,6 +1,10 @@
 # number-guess-game
 
-**Project URL:** https://github.com/anantvardhan04/number-guess-name
+**Project Link**
+
+For more details about this project, https://roadmap.sh/projects/number-guessing-game
+
+
 ## Run Instructions:
 
 python app.py
